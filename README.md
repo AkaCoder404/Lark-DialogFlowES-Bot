@@ -6,7 +6,7 @@
 
 Building a chatbot for Lark/Feishu powered by DialogFlow ES. 
 
-More details about the implementation can be found at the Medium [story]().
+More details about the implementation can be found at the Medium [story](https://medium.com/@thegeorgeyli/building-a-lark-bot-with-dialogflow-es-32f75a775e12).
 
 ## Setup
 ### Google SDK
