@@ -1,8 +1,12 @@
-# Lark - DialogFlow ES Bot
+<p align="center">
+  <img src="banner.png" alt="alt text">
+</p>
 
-Building a chatbot for Lark powered by DialogFlow ES.
+# Lark/Feishu - DialogFlow ES Bot
 
-More details can be found at the Medium [story]().
+Building a chatbot for Lark/Feishu powered by DialogFlow ES. 
+
+More details about the implementation can be found at the Medium [story]().
 
 ## Setup
 ### Google SDK
